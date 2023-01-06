@@ -33,7 +33,7 @@
 
 .btn{
     background-color: orangered;
-    padding: 20px 35px;;
+    padding: 20px 35px;
     font-size: 18px;
     border: none;
     margin: 5px;
@@ -139,4 +139,34 @@
 
 .context{
     font-size: 22px;
+}
+
+.details{
+    display: flex;
+    margin: 25px 45px;
+    width: 700;
+    justify-content: center;
+    align-items:center;
+    margin-top: 150px;
+}
+
+.det-para{
+    padding-right: 18px;
+}
+
+.det-img{
+    border-radius: 30px;
+    padding-left: 10px;
+}
+
+.details-1{
+    display: flex;
+}
+
+.description-1{
+    padding-top: 20px;
+    padding-bottom: 35px;
+    padding-left: 25px;
+    font-size: 28px;
+    color: rgba(194, 174, 152, 0.955);
 }
