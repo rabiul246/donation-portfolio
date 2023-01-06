@@ -170,3 +170,53 @@
     font-size: 28px;
     color: rgba(194, 174, 152, 0.955);
 }
+
+.get-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 118px;
+    height: 220px;
+}
+
+.button{
+    background-color: orangered;
+    padding: 20px 35px;
+    font-size: 18px;
+    border: none;
+    margin: 5px;
+    color: white;
+    border-radius: 10px;
+    padding-top: 20px;
+    
+}
+
+.mail{
+    border: none;
+}
+
+.footer{
+    background-color: black;
+    align-items: center;
+   
+}
+
+.humble{
+    color: red;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 22px;
+}
+
+.bottom{
+    color: rgba(255, 255, 255, 0.893);
+    text-shadow: 2px;
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 67px;
+}
